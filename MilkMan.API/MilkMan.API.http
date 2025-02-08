@@ -1,0 +1,6 @@
+@MilkMan.API_HostAddress = http://localhost:5063
+
+GET {{MilkMan.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
